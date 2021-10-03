@@ -1,0 +1,5 @@
+only edit config.php NOTHING ELSE
+-> Follow the notes in there
+
+
+credits: https://gayboi.xyz - rusplane
